@@ -4,7 +4,7 @@ Welcome to my GitHub playground! I'm an aspiring SDE who loves building cool stu
 
 ## 🚀 Featured Projects
 
-### Fullstack Pizza Delivery Application <link href="/">Link<link/>
+### Fullstack Pizza Delivery Application ([Project 1][project1])
 - Developed a MERN stack Pizza delivery website with all basic features of a conventional e-commerce website like user authentication, Cart Page, Menu Page, Payment page.
 - Implemented a Pizza customization as a unique feature that differentiates our product from other websites. Users can customize their own pizza by specifying all ingredients.
 
