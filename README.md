@@ -47,6 +47,8 @@ I'm always open to collaboration and new ideas. If you have a project or just wa
 Feel free to explore my repositories and don't forget to ⭐️ your favorite projects! Your feedback is highly appreciated.
 
 Happy coding! 🚀
+[![An image of @arunsiva003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arunsiva003)](https://holopin.io/@arunsiva003)
+
 
 [project1]: https://www.linkedin.com/feed/update/urn:li:activity:7083834146585784320/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7083834146585784320%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 [project2]: https://drive.google.com/file/d/1q8IANucBHSjrNvS38H0MgIUv4-EqYaAK/view
