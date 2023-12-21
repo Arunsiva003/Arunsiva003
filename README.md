@@ -38,6 +38,10 @@ Howdy! I'm diving into the exciting world of DevOps, a space where development a
 - [LinkedIn][linkedin]
 - [Portfolio Website][portfolio]
 
+<!-- GitHub Readme Stats -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunsiva003&show_icons=true&count_private=true&hide=issues,contribs)
+
+
 ## 🤝 Let's Collaborate!
 
 I'm always open to collaboration and new ideas. If you have a project or just want to chat, feel free to [reach out](mailto:your.email@example.com)!
