@@ -38,6 +38,9 @@ Howdy! I'm diving into the exciting world of DevOps, a space where development a
 - [LinkedIn][linkedin]
 - [Portfolio Website][portfolio]
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arunsiva003&theme=dark&hide_border=true)
+
+
 <!-- GitHub Readme Stats -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arunsiva003&show_icons=true&count_private=true&hide=issues,contribs)
 
