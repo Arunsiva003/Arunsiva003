@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm [Arunkumar]
+# 👋 Hello World! I'm Arunkumar
 
 Welcome to my GitHub playground! I'm an aspiring SDE who loves building cool stuff and exploring the endless possibilities of technology. Here, you'll find a collection of my projects, contributions, and a glimpse into what makes coding my happy place.
 
